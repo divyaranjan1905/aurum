@@ -1,0 +1,9 @@
+[package]
+name = "aurum"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+alloy = "1.0.22"
+libafl = "0.15.2"
+revm = "27.0.3"
